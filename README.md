@@ -1,2 +1,2 @@
 # iOS-TaoMao-Study
-a littile for iOS Study
+a littile project for iOS Study
