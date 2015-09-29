@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Id</key>
+		<integer>1</integer>
+		<key>createdAt</key>
+		<string>8:23</string>
+		<key>mbtype</key>
+		<string>type1</string>
+		<key>profileImageUrl</key>
+		<string>../blItem1.png</string>
+		<key>source</key>
+		<string>iphone 5s</string>
+		<key>text</key>
+		<string>距离iPhone6 发布还不到一个月时间水电费是飞洒纠纷事件发生</string>
+		<key>userName</key>
+		<string>小冰</string>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>2</integer>
+		<key>createdAt</key>
+		<string>8:23</string>
+		<key>mbtype</key>
+		<string>type2</string>
+		<key>profileImageUrl</key>
+		<string>../blItem2.png</string>
+		<key>source</key>
+		<string>iphone 5s</string>
+		<key>text</key>
+		<string>距离iPhone6 发布还不到一个月时间水电费是飞洒纠纷事件发生</string>
+		<key>userName</key>
+		<string>小冰2</string>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>4</integer>
+		<key>createdAt</key>
+		<string>11:23</string>
+		<key>mbtype</key>
+		<string>type4</string>
+		<key>profileImageUrl</key>
+		<string>../blItem4.png</string>
+		<key>source</key>
+		<string>iphone 11</string>
+		<key>text</key>
+		<string>距离iPhone11 发布还不到一个月时间水电费是飞洒纠纷事件发生</string>
+		<key>userName</key>
+		<string>小冰4</string>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>3</integer>
+		<key>createdAt</key>
+		<string>10:23</string>
+		<key>mbtype</key>
+		<string>type3</string>
+		<key>profileImageUrl</key>
+		<string>../blItem3.png</string>
+		<key>source</key>
+		<string>iphone 8</string>
+		<key>text</key>
+		<string>距离iPhone8 发布还不到一个月时间水电费是飞洒纠纷事件发生</string>
+		<key>userName</key>
+		<string>小冰3</string>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>5</integer>
+		<key>createdAt</key>
+		<string>12:23</string>
+		<key>mbtype</key>
+		<string>type5</string>
+		<key>profileImageUrl</key>
+		<string>../blItem5.png</string>
+		<key>source</key>
+		<string>iphone 6s</string>
+		<key>text</key>
+		<string>距离iPhone55 发布还不到一个月时间水电费是飞洒纠纷事件发生</string>
+		<key>userName</key>
+		<string>小冰5</string>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>6</integer>
+		<key>createdAt</key>
+		<string>13:23</string>
+		<key>mbtype</key>
+		<string>type6</string>
+		<key>profileImageUrl</key>
+		<string>../blItem6.png</string>
+		<key>source</key>
+		<string>iphone 5s</string>
+		<key>text</key>
+		<string>距离iPhone6 发布还不到一个月时间水电费是飞洒纠纷事件发生</string>
+		<key>userName</key>
+		<string>小冰6</string>
+	</dict>
+</array>
+</plist>
